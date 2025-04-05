@@ -4,6 +4,8 @@
 
 Regression testing is a type of software testing which verifies that software which was previously developed and tested still performs the same way after it was changed or interfaced with other software. The purpose of regression testing is to ensure that changes to the software have not introduced new faults.
 
+Reviewed by Samuel Lucas
+
 ## Foreword
 
 This is intended to be an *incomplete* list of resources about visual regression testing. It is not tailored to a specific area or role (Developer/QA/UX-Designer). Note that this is for all areas of regression software testing *after* the code in question is written. For a awesome list on general software testing see e.g. [awesome-testing](https://github.com/TheJambo/awesome-testing).
@@ -12,17 +14,20 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Contents
 
-- [General information](#general-information)
-- [Browser automation](#browser-automation)
-- [Tools and frameworks](#tools-and-frameworks)
-- [Online services](#online-services)
-- [Blog posts](#blog-posts)
-- [Slideshows, talks and videos](#slideshows-talks-and-videos)
-- [Deprecated](#deprecated)
-- [Miscellaneous](#Miscellaneous)
-  - [Contributing](#contributing)
-  - [Code of Conduct](#code-of-conduct)
-  - [License](#license)
+- [Awesome Visual Regression Testing ](#awesome-visual-regression-testing-)
+  - [Foreword](#foreword)
+  - [Contents](#contents)
+  - [General information](#general-information)
+  - [Browser automation](#browser-automation)
+  - [Tools and frameworks (a-z↓)](#tools-and-frameworks-a-z)
+  - [Online services (a-z↓)](#online-services-a-z)
+  - [Blog posts  (a-z↓)](#blog-posts--a-z)
+  - [Slideshows, talks and videos  (a-z↓)](#slideshows-talks-and-videos--a-z)
+  - [Deprecated  (a-z↓)](#deprecated--a-z)
+  - [Miscellaneous](#miscellaneous)
+    - [Contributing](#contributing)
+    - [Code of Conduct](#code-of-conduct)
+    - [License](#license)
 
 ## General information
 
